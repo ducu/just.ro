@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dosar xmlns="portalquery.just.ro" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <parti>
+        <DosarParte>
+            <nume>Stanciu Andreia Otilia</nume>
+            <calitateParte>Apelant Reclamant</calitateParte>
+        </DosarParte>
+        <DosarParte>
+            <nume>AUTORITATEA TUTELARĂ-PRIMĂRIA SECTOR 4 BUCUREŞTI</nume>
+            <calitateParte>Intimat Autoritate tutelară</calitateParte>
+        </DosarParte>
+        <DosarParte>
+            <nume>Stanciu Alexandru Dacian</nume>
+            <calitateParte>Apelant Pârât</calitateParte>
+        </DosarParte>
+    </parti>
+    <sedinte>
+        <DosarSedinta>
+            <complet>Minori şi Familie Apel 1</complet>
+            <data>2021-06-22T00:00:00</data>
+            <ora>08:30</ora>
+            <solutie>Soluţionare</solutie>
+            <solutieSumar>Respinge ca neîntemeiat apelul declarat de pârâtul-reclamant STANCIU ALEXANDRU DACIAN. Admite apelul declarat de reclamanta-pârâtă STANCIU ANDREIA-OTILIA.
+                Schimbă în parte sentinţa civilă apelată în sensul că:
+                Dispune ca reclamanta-pârâtă să păstreze numele de familie dobândit prin căsătorie, acela de „STANCIU”.
+                Obligă pârâtul-reclamant sa plateasca ?n favoarea minorei ... cu titlu de obligaţie de întreţinere, lunar, o sumă reprezentând cota de 1/4 din venitul lunar net al acestuia, dobândit atât în ţară, cât şi în străinătate, începând cu data pronunţării sentinţei de fond, respectiv 05.12.2019 şi până la majoratul copilului.
+                Încuviinţează pârâtului-reclamant dreptul de a avea legături personale cu minora după următorul program:
+                - în prima şi a treia săptămână din lună, de miercuri, ora 19:00, până duminică, ora 19:00, cu obligaţia tatălui de a aduce minora la domiciliul mamei la sfârşitul programului;
+                -	vacanţa de vară: în anii pari, din data de 01 iulie, ora 10 până pe data de 31 iulie, ora 19:00 şi de pe data de 01 septembrie ora 10:00 până în ultima zi de vacanţă, ora 19:00; în anii impari, începând cu prima zi de luni de vacanţă, ora 10:00, din luna iunie, până la data de 30 iunie ora 19:00 şi de pe data de 01 august ora 10:00, până pe data de 31 august ora 19:00; cu obligaţia tatălui de a aduce minora la domiciliul mamei la sfârşitul programului;
+                -	vacanţa de iarnă: în anii pari, începând cu data de 29 decembrie ora 10:00 şi până la sfârşitul vacanţei (duminică, ora 19:00); în anii impari, începând cu prima sâmbătă din vacanţă, ora 10:00 şi până pe data de 28 decembrie, ora 19:00, cu obligaţia tatălui de a aduce minora la domiciliul mamei la sfârşitul programului;
+                -	vacanţa de Pa?ti, în anii pari începând cu prima zi a vacanţei, ora 10.00 şi până în ultima zi a vacanţei, ora 19.00 cu obligaţia tatălui de a aduce minora la domiciliul mamei la sfârşitul programului (în anii impari cu mama);
+                -	vacanţa pentru preşcolari din primul semestru: în anii pari începând cu prima zi a vacanţei, ora 10.00 şi până în ultima zi a vacanţei, ora 19.00 cu obligaţia tatălui de a aduce minora la domiciliul mamei la sfârşitul programului (în anii impari cu mama);
+                -	ziua aniversară a minorei, în anii impari, cu respectarea programului educativ al copilului, de la ora 10.00, la ora 20.00, (în anii impari cu mama);
+                -	ziua de naştere a fiecăruia dintre părinţi va fi petrecută cu respectivul părinte, de la ora 10.00, la ora 20.00.
+                Menţine în rest sentinţa civilă apelată. 
+                Obligă apelantul-intimat STANCIU ALEXANDRU DACIAN la plata către apelanta STANCIU ANDREIA-OTILIA a sumei de 2500 lei cu titlu de cheltuieli de judecată reprezentând onorariu de avocat.  
+                Definitivă.
+                Pronunţată, azi, 22.06.2021, prin punerea soluţiei la dispoziţia părţilor prin mijlocirea grefei instanţei.
+            </solutieSumar>
+            <dataPronuntare>2021-06-22T00:00:00</dataPronuntare>
+            <documentSedinta>Hotarare</documentSedinta>
+            <numarDocument>1632/2021</numarDocument>
+            <dataDocument>2021-06-22T00:00:00</dataDocument>
+        </DosarSedinta>
+        <DosarSedinta>
+            <complet>Minori şi Familie Apel 1</complet>
+            <data>2021-06-14T00:00:00</data>
+            <ora>08:30</ora>
+            <solutie>Amână pronunţarea</solutie>
+            <solutieSumar>Amână pronunţarea la data de 22.06.2021. Pronunţată azi, 14.06.2021, prin punerea soluţiei la dispoziţia părţilor prin mijlocirea grefei instanţei. </solutieSumar>
+            <dataPronuntare>2021-06-14T00:00:00</dataPronuntare>
+            <documentSedinta>incheiereAmanareulterioaraapronuntarii</documentSedinta>
+            <numarDocument />
+            <dataDocument>2021-06-14T00:00:00</dataDocument>
+        </DosarSedinta>
+        <DosarSedinta>
+            <complet>Minori şi Familie Apel 1</complet>
+            <data>2021-06-02T00:00:00</data>
+            <ora>08:30</ora>
+            <solutie>Amână pronunţarea</solutie>
+            <solutieSumar>Amână pronunţarea la data de 14.06.2021. Pronunţată azi, 02.06.2021, prin punerea soluţiei la dispoziţia părţilor prin mijlocirea grefei instanţei. </solutieSumar>
+            <dataPronuntare>2021-06-02T00:00:00</dataPronuntare>
+            <documentSedinta>incheiereAmanareulterioaraapronuntarii</documentSedinta>
+            <numarDocument />
+            <dataDocument>2021-06-02T00:00:00</dataDocument>
+        </DosarSedinta>
+        <DosarSedinta>
+            <complet>Minori şi Familie Apel 1</complet>
+            <data>2021-05-18T00:00:00</data>
+            <ora>08:30</ora>
+            <solutie>Amână pronunţarea</solutie>
+            <solutieSumar>Amână pronunţarea la data de 02.06.2021. Pronunţată azi, 18.05.2021, prin punerea soluţiei la dispoziţia părţilor prin mijlocirea grefei instanţei. </solutieSumar>
+            <dataPronuntare>2021-05-18T00:00:00</dataPronuntare>
+            <documentSedinta>incheiereAmanareulterioaraapronuntarii</documentSedinta>
+            <numarDocument />
+            <dataDocument>2021-05-18T00:00:00</dataDocument>
+        </DosarSedinta>
+        <DosarSedinta>
+            <complet>Minori şi Familie Apel 1</complet>
+            <data>2021-05-04T00:00:00</data>
+            <ora>13:00</ora>
+            <solutie>Amână pronunţarea</solutie>
+            <solutieSumar>Amână pronunţarea la data de 18.05.2021 pentru când soluţia va fi pusă la dispoziţia părţilor prin mijlocirea grefei instanţei. Pronunţată în şedinţă publică azi, 04.05.2021.</solutieSumar>
+            <dataPronuntare>2021-05-04T00:00:00</dataPronuntare>
+            <documentSedinta>incheiereAmanareinitialaapronuntarii</documentSedinta>
+            <numarDocument />
+            <dataDocument>2021-05-04T00:00:00</dataDocument>
+        </DosarSedinta>
+        <DosarSedinta>
+            <complet>Minori şi Familie Apel 1</complet>
+            <data>2021-04-05T00:00:00</data>
+            <ora>12:00</ora>
+            <solutie>Amână cauza</solutie>
+            <solutieSumar>imposibilitate prezentare avocat </solutieSumar>
+            <dataPronuntare>2021-04-05T00:00:00</dataPronuntare>
+            <documentSedinta>incheieredesedinta</documentSedinta>
+            <numarDocument />
+            <dataDocument>2021-04-05T00:00:00</dataDocument>
+        </DosarSedinta>
+        <DosarSedinta>
+            <complet>Minori şi Familie Apel 1</complet>
+            <data>2021-03-01T00:00:00</data>
+            <ora>10:00</ora>
+            <solutie>Amână cauza</solutie>
+            <solutieSumar>Pentru continuitatea completului</solutieSumar>
+            <dataPronuntare>2021-03-01T00:00:00</dataPronuntare>
+            <documentSedinta>incheieredesedinta</documentSedinta>
+            <numarDocument />
+            <dataDocument>2021-03-01T00:00:00</dataDocument>
+        </DosarSedinta>
+        <DosarSedinta>
+            <complet>Minori şi Familie Apel 1</complet>
+            <data>2021-01-04T00:00:00</data>
+            <ora>11:30</ora>
+            <solutie>Amână cauza</solutie>
+            <solutieSumar>lipsă răspuns la adresa instanţei</solutieSumar>
+            <dataPronuntare>2021-01-04T00:00:00</dataPronuntare>
+            <documentSedinta>incheieredesedinta</documentSedinta>
+            <numarDocument />
+            <dataDocument>2021-01-04T00:00:00</dataDocument>
+        </DosarSedinta>
+        <DosarSedinta>
+            <complet>Minori şi Familie Apel 1</complet>
+            <data>2020-11-16T00:00:00</data>
+            <ora>11:00</ora>
+            <solutie>Încheiere</solutie>
+            <solutieSumar>administrarea probelor propuse </solutieSumar>
+            <dataPronuntare xsi:nil="true" />
+            <documentSedinta xsi:nil="true" />
+            <numarDocument />
+            <dataDocument xsi:nil="true" />
+        </DosarSedinta>
+        <DosarSedinta>
+            <complet>Minori şi Familie Apel 1</complet>
+            <data>2020-11-02T00:00:00</data>
+            <ora>12:00</ora>
+            <solutie>Amână cauza</solutie>
+            <solutieSumar>timbrarea cererii </solutieSumar>
+            <dataPronuntare>2020-11-02T00:00:00</dataPronuntare>
+            <documentSedinta>incheieredesedinta</documentSedinta>
+            <numarDocument />
+            <dataDocument>2020-11-02T00:00:00</dataDocument>
+        </DosarSedinta>
+        <DosarSedinta>
+            <complet>C.C.- Minori şi Familie Apel 2</complet>
+            <data>2020-09-14T00:00:00</data>
+            <ora>12:30</ora>
+            <solutie>Amână cauza</solutie>
+            <solutieSumar>respinge declara?iile de abţinere formulate de către d-nele jduecător ME Petru şi AM Garofil. Fara cale de atac. Data in camera de consiliu şi pronunţată prin punerea solu?iei la dispoziţia părţilor prin mijlocirea grefei instanţei, azi, 14.09.2020.</solutieSumar>
+            <dataPronuntare>2020-09-14T00:00:00</dataPronuntare>
+            <documentSedinta>incheiereabtinere</documentSedinta>
+            <numarDocument />
+            <dataDocument>2020-09-14T00:00:00</dataDocument>
+        </DosarSedinta>
+        <DosarSedinta>
+            <complet>Minori şi Familie Apel 1</complet>
+            <data>2020-08-24T00:00:00</data>
+            <ora>10:00</ora>
+            <solutie>Încheiere</solutie>
+            <solutieSumar>în vederea soluţionării cererii de abţinere</solutieSumar>
+            <dataPronuntare xsi:nil="true" />
+            <documentSedinta>incheieredesedinta</documentSedinta>
+            <numarDocument />
+            <dataDocument>2020-08-24T00:00:00</dataDocument>
+        </DosarSedinta>
+    </sedinte>
+    <caiAtac>
+        <DosarCaleAtac>
+            <dataDeclarare>2020-02-21T00:00:00</dataDeclarare>
+            <parteDeclaratoare> Stanciu Alexandru Dacian,  Stanciu Andreia Otilia, </parteDeclaratoare>
+            <tipCaleAtac>Apel</tipCaleAtac>
+        </DosarCaleAtac>
+    </caiAtac>
+    <numar>7983/4/2019</numar>
+    <numarVechi />
+    <data>2020-02-26T14:40:00</data>
+    <institutie>TribunalulBUCURESTI</institutie>
+    <departament>Secţia a-IV-a Civilă</departament>
+    <categorieCaz>Minorisifamilie</categorieCaz>
+    <stadiuProcesual>Apel</stadiuProcesual>
+    <obiect>divorţ cu copii - DOSAR ELECTRONIC</obiect>
+    <dataModificare>2021-06-29T18:37:14.597</dataModificare>
+    <categorieCazNume>Minori şi familie</categorieCazNume>
+    <stadiuProcesualNume>Apel</stadiuProcesualNume>
+</Dosar>
